@@ -14,3 +14,7 @@ for item in dic.items():
 li.sort(reverse=True)
 for index,l in enumerate(li,start=1):
     print(f'第{index}名 {l[1]}{l[0]}')
+
+a=b
+a=c
+b=c
