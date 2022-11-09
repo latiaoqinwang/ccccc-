@@ -16,9 +16,15 @@ for index,l in enumerate(li,start=1):
     print(f'第{index}名 {l[1]}{l[0]}')
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 66666666666666666666666
+=======
+a=b
+a=c
+b=c
+>>>>>>> eb4af93e51be6acd015fdf9de45034d18d3fff26
 =======
 a=b
 a=c
