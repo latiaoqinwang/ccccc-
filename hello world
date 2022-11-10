@@ -7,8 +7,8 @@ int main()
     print("冲突测试");
     h=5;
     j=3;
-    adj=h+j;
-    print("adj=%d",adj)
+    avg=h+j+36;
+    print("avg=%d",avg)
 
 
 
