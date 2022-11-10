@@ -5,7 +5,7 @@ def curvemove():
     turtle.forward(1)
 turtle.color('red')
 turtle.begin_fill()
-turtle.left(140)
+666
 turtle.forward(111.65)
 curvemove()
 turtle.left(120)
