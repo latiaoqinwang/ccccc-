@@ -5,10 +5,10 @@ int main()
     print("你好世界");
     print("今晚红月亮");
     print("冲突测试");
-    h=5;
+    z=5;
     j=3;
-    avg=h+j+35;
-    print("avg=%d",avg)
+    sum=z+j+35;
+    print("sum=%d",sum)
 
 
 
