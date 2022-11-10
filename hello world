@@ -1,3 +1,23 @@
+<<<<<<< HEAD
 print("Hello World!");
 print("你好世界");
 print("今晚红月亮");
+=======
+#include(stdio.h)
+int main()
+{
+    print("Hello World!");
+    print("你好世界");
+    print("今晚红月亮");
+    print("冲突测试");
+    h=5;
+    j=3;
+    avg=h+j+35;
+    print("avg=%d",avg)
+
+
+
+}
+
+
+>>>>>>> b36facf (Revert "1518")
