@@ -5,7 +5,7 @@ def curvemove():
     turtle.forward(1)
 turtle.color('red')
 turtle.begin_fill()
-666
+turtle.left(140)
 turtle.forward(111.65)
 curvemove()
 turtle.left(120)
@@ -17,4 +17,3 @@ turtle.goto(-40, -50)
 turtle.pendown()
 turtle.write('', font = ('SimHei', 15, 'bold'))
 turtle.hideturtle()
-circle import to ARX
