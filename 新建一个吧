@@ -27,6 +27,10 @@ public class MaoPaoPX {
 		}
 		System.out.println();
 		
+System.out.println();System.out.println();System.out.println();System.out.println();System.out.println();
+
+
 	}
 
 }
+
