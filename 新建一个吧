@@ -22,7 +22,7 @@ public class MaoPaoPX {
 	private static void showArr(int []arr) {
 		//增强for循环打印
 		for(int a:arr) {
-			System.out.print(a+"\t");
+		
 		
 		}
 		System.out.println();
